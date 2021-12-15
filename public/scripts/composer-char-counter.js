@@ -14,15 +14,3 @@
   
     })
   });
-
-
-
-// $('textarea').bind('keyup keydown', function() {
-//   var count = $('#count');
-//   var characters = $(this).val().length;
-
-//   if (characters > maxCharacters) {
-//       count.addClass('over');
-//   } else {
-//       count.removeClass('over');
-//   }
