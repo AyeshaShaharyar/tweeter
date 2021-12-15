@@ -9,6 +9,7 @@ nav{
   position: fixed;
   top: 0;
 }
+
 .logo{
   font-family: "Bungee", cursive;
   display: flex;
@@ -20,6 +21,7 @@ nav{
   justify-content: end;
   flex-direction: column;
 }
+
 .fas{
  display: flex;
  color: red;
