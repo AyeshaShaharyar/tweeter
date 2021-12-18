@@ -1,7 +1,9 @@
 .new-tweet{
   font-family: "Source Sans Pro", sans-serif;
-  
+  /* float: right; */
 }
+
+
 #tweet-text{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
@@ -10,8 +12,10 @@
   border-bottom: #545149 solid 5px;
   outline: none;
   background-color: #f4f1ec;
-  
+  width: 105%;
 }
+
+
 .tweet-btn{
   background-color:#4056a1;
   border: none;
@@ -23,16 +27,17 @@
   font-family: "Bungee", cursive;
 }
 
+.tweet-btn:hover{
+  box-shadow: 0 12px 16px 0 rgba(108, 112, 168, 0.24), 0 17px 50px 0 rgba(108, 112, 168, 0.24);
+}
+
 
 .counter{
   font-family: "Bungee", cursive;
   color: #545149;
+  width: 15px;
 }
 
-.neg-counter{
-  font-family: "Bungee", cursive;
-  color: red;
-}
 
 .btn-count{
   display: flex;
