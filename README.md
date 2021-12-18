@@ -13,11 +13,11 @@ This application is built on HTML, CSS, JS, jQuery and AJAX front-end skills, an
 
 ## Final Product
 
-!["Your urls"](https://github.com/AyeshaShaharyar/tinyapp/blob/master/docs/urls-page.png?raw=true)
+!["Front Page"](https://github.com/AyeshaShaharyar/tweeter/blob/master/docs/Tweeter%20for%20Desktops.png?raw=true)
 
-!["Create a new url"](https://github.com/AyeshaShaharyar/tinyapp/blob/master/docs/create-new-url-page.png?raw=true)
+!["Tablet layout of App"](https://github.com/AyeshaShaharyar/tweeter/blob/master/docs/Tweeter%20for%20tablets.png?raw=true)
 
-!["Edit your created url"](https://github.com/AyeshaShaharyar/tinyapp/blob/master/docs/edit-url-page.png?raw=true)
+!["Tweets"](https://github.com/AyeshaShaharyar/tweeter/blob/master/docs/tweets.png?raw=true)
 
 ## Dependencies
 
