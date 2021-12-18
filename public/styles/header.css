@@ -9,11 +9,12 @@
   background-image: url("https://www.transparenttextures.com/patterns/mooning.png");
   display: inline-block;
 }
+
 .fname{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
-
 }
+
 .lname{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
@@ -57,11 +58,6 @@
     flex-direction: column;
     justify-content: center;
   }
-/* 
-  #tweet-text{
-    margin-top: 2px;
- 
-  } */
 
   
 }

@@ -4,7 +4,6 @@
   font-family: "Source Sans Pro", sans-serif;
 }
 
-
 #tweet-text{
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
@@ -15,7 +14,6 @@
   background-color: #f4f1ec;
   width: 105%;
 }
-
 
 .tweet-btn{
   background-color:#4056a1;
@@ -32,13 +30,11 @@
   box-shadow: 0 12px 16px 0 rgba(108, 112, 168, 0.24), 0 17px 50px 0 rgba(108, 112, 168, 0.24);
 }
 
-
 .counter{
   font-family: "Bungee", cursive;
   color: #545149;
   width: 15px;
 }
-
 
 .btn-count{
   display: flex;

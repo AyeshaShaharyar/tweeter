@@ -4,7 +4,7 @@
 //  * Reminder: Use (and do all your DOM work in) jQuery's document ready function
 //  */
 // 
-
+//escape function
 const escape = function (str) {
   let div = document.createElement("div");
   div.appendChild(document.createTextNode(str));
@@ -58,6 +58,7 @@ const renderTweets = function (tweets) {
 $(document).ready(function () {
   // catch the form submit
 
+  //alerts for empty and above 140 char tweets conditions
   $("#tweet-text").on('change keyup paste', function () {
     let tweetText = $(this).val().length;
     if (tweetText === 0 || tweetText < 140 ) {
@@ -96,7 +97,7 @@ $(document).ready(function () {
       });
     }
   });
-
+//get posted tweets from /tweets
   const loadtweets = function () {
     $.ajax({
       url: "/tweets",

@@ -31,14 +31,15 @@ color: #a94442;
 visibility: hidden;
 }
 
-.time{
-  font-size: 15px;
-  margin-left: 15px;
-}
-
+/* header section of tweet article */
 .header-div{
   font-weight: 300;
+}
 
+name {
+  float: right;
+  margin-top: 20px;
+  margin-left: 10px;
 }
 
 .handle{
@@ -47,6 +48,7 @@ visibility: hidden;
   margin-top: 15px;
 }
 
+/* footer section of tweet article */
 
 hr{
   height: 4px;
@@ -60,7 +62,11 @@ color: #545149;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
+}
 
+.time{
+  font-size: 15px;
+  margin-left: 15px;
 }
 
 .icons{
@@ -69,23 +75,13 @@ justify-content: space-between;
   color: #4056a1;
 }
 
-name {
-    float: right;
-    margin-top: 20px;
-    margin-left: 10px;
-}
-
-
 .fa-flag:hover{
   color: #e1ad01;
 }
 
-
-
 .fa-retweet:hover{
   color: #e1ad01;
 }
-
 
 .fa-heart:hover{
   color: #e1ad01;
