@@ -11,6 +11,5 @@
       } else {
         counter.css("color", "black");
       }
-  
     })
   });
