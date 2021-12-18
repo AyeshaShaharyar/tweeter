@@ -34,6 +34,7 @@ nav {
     background-color: aliceblue;  
     background-image: url("https://www.transparenttextures.com/patterns/mooning.png");
     position: relative;
+    color: #545149;
   }
   .container{
     margin-bottom: 2em;
