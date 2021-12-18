@@ -1,3 +1,4 @@
+/*navbar and media quereies styles*/
 nav {
   height: 120px;
   background-color: #4056a1;
@@ -30,3 +31,17 @@ nav {
 
 
 
+@media screen and (max-width: 1024px){
+  nav{
+    background-color: aliceblue;  
+    background-image: url("https://www.transparenttextures.com/patterns/mooning.png");
+    position: relative;
+  }
+  .container{
+    margin-bottom: 2em;
+  }
+  #tweet-text{
+    margin-top: 30px;
+  }
+
+}

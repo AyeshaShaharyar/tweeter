@@ -1,7 +1,4 @@
-/* .tweet-container{
-  width: 57%;
-} */
-
+/*tweet container styles*/
 article{
 font-family: "Source Sans Pro", sans-serif;
 font-weight: 600;
@@ -45,8 +42,9 @@ visibility: hidden;
 }
 
 .handle{
-  opacity: 0.6;
+  color: #bfbdb6;
   margin-right: 3px;
+  margin-top: 15px;
 }
 
 

@@ -1,4 +1,4 @@
-/*
+/* body styles
  * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
  * https://css-tricks.com/international-box-sizing-awareness-day/
  * Do not modify these two selectors, please
@@ -25,10 +25,6 @@ body {
 
 .container{
   width: 90%;
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column; */
   background-color:#f4f1ec; 
   margin: auto;
 }

@@ -1,3 +1,4 @@
+  //tweet char counter
   $(document).ready(function() {
 
     (document).getElementById("tweet-text").addEventListener("keyup",function() {
